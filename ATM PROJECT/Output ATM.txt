@@ -1,0 +1,30 @@
+java -cp /tmp/xhb1RvQnix ATM
+Enter account number (or type 'exit' to quit):
+123456
+
+Main Menu:
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Logout
+2
+Enter amount to deposit:
+200
+Deposit successful. Your new balance is: 1200
+
+Main Menu:
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Logout
+1
+Your balance is: 1200
+
+Main Menu:
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Logout
+4
+Logged out successfully.
+Enter account number (or type 'exit' to quit):
